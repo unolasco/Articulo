@@ -9,6 +9,7 @@ public class AppArticulo {
 		System.out.println(articulo1.toString1());
 		System.out.println(articulo1.toString2());
 		
+		
 		Articulo articulo2 = new  Articulo("22222","teclado","acer",80);
 		System.out.println(articulo2.toString1());
 		System.out.println(articulo2.toString2());
